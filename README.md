@@ -1,3 +1,4 @@
+Hello My Discord is kento_hypebear
 # lottery.aleo
 
 ## Run Guide
